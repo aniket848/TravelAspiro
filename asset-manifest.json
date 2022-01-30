@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TravelAspiro/static/css/main.80143768.css",
+    "main.js": "/TravelAspiro/static/js/main.ced8d8da.js",
+    "static/media/Traveller 1.png": "/TravelAspiro/static/media/Traveller 1.20f27ec639dd3520e3ac.png",
+    "static/media/building1.png": "/TravelAspiro/static/media/building1.f18249d4dddd8a7d1e89.png",
+    "static/media/gummad.png": "/TravelAspiro/static/media/gummad.fff3786b252aefa42951.png",
+    "static/media/Decore.png": "/TravelAspiro/static/media/Decore.e697b148fc5648aa68ce.png",
+    "static/media/girl.jpg": "/TravelAspiro/static/media/girl.52f5774b48ecd1764ae1.jpg",
+    "static/media/tower.jpg": "/TravelAspiro/static/media/tower.fe3e3d92c5d627e3a9e2.jpg",
+    "static/media/circle1.png": "/TravelAspiro/static/media/circle1.6bf99dd76dc2398645e8.png",
+    "static/media/Play Demo.png": "/TravelAspiro/static/media/Play Demo.f6430a04fc136273f4f4.png",
+    "static/media/circle2.png": "/TravelAspiro/static/media/circle2.f3b3af4fb13345d2666b.png",
+    "index.html": "/TravelAspiro/index.html",
+    "main.80143768.css.map": "/TravelAspiro/static/css/main.80143768.css.map",
+    "main.ced8d8da.js.map": "/TravelAspiro/static/js/main.ced8d8da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80143768.css",
+    "static/js/main.ced8d8da.js"
+  ]
+}
